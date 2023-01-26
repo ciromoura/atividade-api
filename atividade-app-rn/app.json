@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "atividade-app-rn",
+    "slug": "atividade-app-rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
